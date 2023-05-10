@@ -1,7 +1,7 @@
 <?
 $arTemplate = array (
   'NAME' => 'Task1',
-  'DESCRIPTION' => '',
+  'DESCRIPTION' => 'Шаблон с заданиями',
   'SORT' => '',
   'TYPE' => '',
 );
